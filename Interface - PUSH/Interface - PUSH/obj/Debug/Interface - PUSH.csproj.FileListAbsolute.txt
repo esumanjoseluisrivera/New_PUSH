@@ -1,0 +1,5 @@
+E:\Interface - PUSH\Interface - PUSH\Interface - PUSH\obj\Debug\Interface - PUSH.csprojAssemblyReference.cache
+E:\Interface - PUSH\Interface - PUSH\Interface - PUSH\obj\Debug\Interface___PUSH.Principal.resources
+E:\Interface - PUSH\Interface - PUSH\Interface - PUSH\obj\Debug\Interface___PUSH.Properties.Resources.resources
+E:\Interface - PUSH\Interface - PUSH\Interface - PUSH\obj\Debug\Interface - PUSH.csproj.GenerateResource.cache
+E:\Interface - PUSH\Interface - PUSH\Interface - PUSH\obj\Debug\Interface - PUSH.csproj.CoreCompileInputs.cache
